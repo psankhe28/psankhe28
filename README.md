@@ -1,16 +1,28 @@
-### Hi there 👋
+# 👋Hey, Welcome to my Github Page
 
-<!--
-**psankhe28/psankhe28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻Who am I?
+I am **Pratiksha Sankhe**, pursuing Bachelor's in Computer Science at VJTI, 24'.
 
-Here are some ideas to get you started:
+## 👩About Me
+- 🌱 I’m currently learning Web Development.
+- 👯 I’m looking to collaborate on projects related to web development!
+- 💬 Ask me about react js,javascript and flask
+- ⚡ Fun fact: I love listening music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Passionate about?
+**CODING!!**<br>**CREATING!!**<br>**EXPLORING!!**
+
+## ✨ Skills
+* Javascript (React)
+* Flask
+* UI/UX Design
+* Python (ML)
+* C++ (Competitive Coding) <br>
+etc...<br>
+
+
+## 📞 Contact Me
+* Email Id: sankhepratiksha3@gmail.com
+* LinkedIn : [Pratiksha Sankhe](https://www.linkedin.com/in/pratiksha-sankhe/)
+* Twitter : [@SankhePratiksha](https://twitter.com/SankhePratiksha)
+
