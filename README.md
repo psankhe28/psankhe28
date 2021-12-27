@@ -1,4 +1,4 @@
-# 👋Hey, Welcome to my Github Page
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Hey, Welcome to my Github Page
 
 ## 👩‍💻Who am I?
 I am **Pratiksha Sankhe**, pursuing Bachelor's in Computer Science at VJTI, 24'.
@@ -6,6 +6,10 @@ I am **Pratiksha Sankhe**, pursuing Bachelor's in Computer Science at VJTI, 24'.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psankhe28&show_icons=true&theme=aura)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psankhe28&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<p>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=psankhe28&theme=highcontrast"/>
+</p>
 
 <br/>
 
