@@ -1,4 +1,4 @@
-#Hey, Welcome to my Github Page!
+# Hey, Welcome to my Github Page!
 
 ## 👩‍💻Who am I?
 I am **Pratiksha Sankhe**, pursuing Bachelor's in Computer Science at VJTI, 24'.
