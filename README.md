@@ -2,8 +2,15 @@
 
 <h4 align="center">Full Stack Web Developer | UI Designer | VJTI CSE '24 </h4>
 
-<p width="50%" padding="10%"> 
+<br/>
+<p align="center"> 
+
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=psankhe28&show_icons=true&theme=aura"/>
+</p>
+
+<br/>
+
+<p align="center"> 
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=psankhe28&theme=highcontrast"/>
 </p>
 
