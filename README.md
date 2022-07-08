@@ -46,14 +46,21 @@ I am **Pratiksha Sankhe**, pursuing Bachelor's in Computer Science at VJTI, 24'.
  <br/>
 <!-- </div> -->
 
-## 👩About Me
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on projects related to web development!
-- 💬 Ask me about react js,javascript and flask
-- ⚡ Fun fact: I love listening music
-
 ## 💻 Passionate about?
 **CODING!!**<br>**CREATING!!**<br>**EXPLORING!!**
+
+## 🏆 My Latest Achievements 
+- National Semi Finalist - Flipkart GRiD 4.0
+- First runner up - HackGDSC organized by VIT Bhopal.
+- 2nd Position - AVATHON organized by Avantika University.
+- 2nd Position - HACK-NU-THON organized by Nirma University
+- Winner of best design track - HACK-NU-THON organized by Nirma University
+- 1st Position -Beg,Borrow and Steal competition organized by Department of Business Economics(DU).
+- 1st Position - Code Odyssey Hackathon organized by KJSCE,Sion.
+- 2nd Position - Math magic competition by Anna University.
+- 3rd Position - The Ultimate Android Quiz by NullClass.
+
+</td>
 
 ## 📞 Contact Me
 * Email Id: sankhepratiksha3@gmail.com
