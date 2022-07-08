@@ -1,14 +1,14 @@
-# Hey, Welcome to my Github Page!
+<h1 align="center">Hello,I am Pratiksha Sankhe </h1>
 
-## 👩‍💻Who am I?
-I am **Pratiksha Sankhe**, pursuing Bachelor's in Computer Science at VJTI, 24'.
+<h4 align="center">Full Stack Web Developer | UI Designer | VJTI CSE '24 </h4>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psankhe28&show_icons=true&theme=aura)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psankhe28&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p>
+<p width="50%" padding="10%"> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=psankhe28&show_icons=true&theme=aura"/>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=psankhe28&theme=highcontrast"/>
+</p>
+
+<p align="center"> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psankhe28&layout=compact&theme=aura"/>
 </p>
 
 <br/>
@@ -59,8 +59,6 @@ I am **Pratiksha Sankhe**, pursuing Bachelor's in Computer Science at VJTI, 24'.
 - 1st Position - Code Odyssey Hackathon organized by KJSCE,Sion.
 - 2nd Position - Math magic competition by Anna University.
 - 3rd Position - The Ultimate Android Quiz by NullClass.
-
-</td>
 
 ## 📞 Contact Me
 * Email Id: sankhepratiksha3@gmail.com
