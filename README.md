@@ -62,6 +62,7 @@
 - 2nd Position - AVATHON organized by Avantika University.
 - 2nd Position - HACK-NU-THON organized by Nirma University
 - Winner of best design track - HACK-NU-THON organized by Nirma University
+- Best Beginner Hack - Error404 hackathon
 - 1st Position -Beg,Borrow and Steal competition organized by Department of Business Economics(DU).
 - 1st Position - Code Odyssey Hackathon organized by KJSCE,Sion.
 - 2nd Position - Math magic competition by Anna University.
