@@ -58,7 +58,7 @@
 
 ## 🏆 My Latest Achievements 
 - National Semi Finalist - Flipkart GRiD 4.0
-- 2nd place in Weave the Web
+- 2nd Position - Weave the Web
 - First runner up - HackGDSC organized by VIT Bhopal.
 - 2nd Position - AVATHON organized by Avantika University.
 - 2nd Position - HACK-NU-THON organized by Nirma University
