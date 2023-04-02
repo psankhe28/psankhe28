@@ -58,6 +58,7 @@
 
 ## 🏆 My Latest Achievements 
 - National Semi Finalist - Flipkart GRiD 4.0
+- Winner of Hack the Chain Hackathon organized by IIIT Kota
 - 2nd Position - Weave the Web
 - First runner up - HackGDSC organized by VIT Bhopal.
 - 2nd Position - AVATHON organized by Avantika University.
