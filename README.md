@@ -56,21 +56,6 @@
 ## 💻 Passionate about?
 **CODING!!**<br>**CREATING!!**<br>**EXPLORING!!**
 
-## 🏆 My Latest Achievements 
-- National Semi Finalist - Flipkart GRiD 4.0
-- Winner of Hack the Chain Hackathon organized by IIIT Kota
-- 2nd Position - Interrupt Innovate Iterate Hackathon organized by IIITA
-- 2nd Position - Centenary Hackathon organized by VJTI
-- 2nd Position - Weave the Web
-- 2nd Position - HackGDSC organized by VIT Bhopal
-- 2nd Position - AVATHON organized by Avantika University
-- 2nd Position - HACK-NU-THON organized by Nirma University
-- Winner of best design track - HACK-NU-THON organized by Nirma University
-- Best Beginner Hack - Error404 hackathon
-- Special Mention in IDEATE: BREAKING THE BARRIERS
-- 1st Position - Code Odyssey Hackathon organized by KJSCE,Sion
-- 3rd Position - The Ultimate Android Quiz by NullClass
-
 ## 📞 Contact Me
 * Email Id: sankhepratiksha3@gmail.com
 * LinkedIn : [Pratiksha Sankhe](https://www.linkedin.com/in/pratiksha-sankhe/)
